@@ -72,6 +72,8 @@ header a:hover{
     min-height:400px; background:url('../img/dykningshowcase.jpg') no-repeat 0 -100px;
     color:#ffffff;
     border-bottom: #559B4C 3px solid; 
+    background-size:cover;
+    background-position:center;
 }
 
 #showcase h1{
