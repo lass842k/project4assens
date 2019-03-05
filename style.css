@@ -18,6 +18,14 @@ ul{
     padding:0;
 }
 
+.light{
+    padding:15px;
+    background:#2E5C84;
+    color:#ffffff;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
 header{
     background:#184D7C;
     color:#ffffff;
@@ -83,6 +91,20 @@ header a:hover{
 #main{
     background:#184D7C;
     color:#ffffff;
+}
+
+article#maincol{
+    margin-top:20px;
+    margin-bottom:20px;
+    float:left;
+    width:40%;
+}
+
+aside#sidecol{
+    margin-top:20px;
+    margin-bottom:20px;
+    float:right;
+    width:40%;
 }
 
 footer{
