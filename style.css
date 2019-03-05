@@ -80,9 +80,13 @@ header a:hover{
     font-size:15px;
 }
 
+#main{
+    background:#184D7C;
+    color:#ffffff;
+}
+
 footer{
     padding:20px;
-    margin-top:20px;
     color:#ffffff;
     background-color:#559B4C;
     text-align:center;
