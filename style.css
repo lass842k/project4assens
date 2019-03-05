@@ -113,3 +113,23 @@ footer{
     background-color:#559B4C;
     text-align:center;
 }
+
+@media(max-width: 768px){
+    header .logo,
+    header nav
+    header nav li{
+        float:none;
+        text-align:center;
+        width:100%;
+    }
+    article#maincol,
+        aside#sidecol{
+            float:none;
+            text-align:center;
+            width:100%;
+        }
+    
+    header{
+        padding-bottom:15px;
+    }
+}
